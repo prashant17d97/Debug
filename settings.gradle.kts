@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "site"
+//rootProject.name = "DebugDesk"
 
 include(":site")
